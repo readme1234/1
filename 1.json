@@ -1,0 +1,31 @@
+"inapp": [
+{
+    "en" => {
+        "time": "0, ",
+        "img": "Ivan"    
+    },
+    "de" => {
+        "time": "0, ",
+        "img": "Ivan" 
+    },
+    "ru" => {
+        "time": "0, ",
+        "img": "Ivan" 
+    }
+},
+"push":[
+{
+    [
+        "lang": "en",
+        "time": "0, ",
+        "img": "Ivan"    
+    ],[
+        "lang": "de",
+        "time": "0, ",
+        "img": "Ivan" 
+    ],[
+        "lang": "ru",
+        "time": "0, ",
+        "img": "Ivan" 
+    ]
+}]
